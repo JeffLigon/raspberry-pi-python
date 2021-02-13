@@ -3,7 +3,7 @@ from time import time, sleep
 from random import randint
 
 led = LED(17)
-btn = Button(4)
+btn = Button(26)
 
 while True:
     sleep(randint(1,10))
