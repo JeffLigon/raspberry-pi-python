@@ -1,0 +1,5 @@
+Wiring Notes for these apps:
+
+GPIO 17 -- + RED LED - -- resistor -- ground
+GPIO 27 -- + RED LED - -- resistor -- ground
+GPIO 22 -- + RED LED - -- resistor -- ground
